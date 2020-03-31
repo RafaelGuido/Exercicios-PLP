@@ -1,1 +1,1 @@
-# Exerc-cios-PLP
+# Exercicios-PLP
